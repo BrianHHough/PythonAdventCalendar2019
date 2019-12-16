@@ -3,9 +3,7 @@
 def text_message(name,n):
   return 'Dear {}, you have solved {} tasks so far.'.format(name,n)
 
-print('beginner version:')
 print(text_message('John', 5))
-print('')
 
 # A D V A N C E D
 
@@ -20,5 +18,4 @@ and your last access was on {} at {}""".format(name, str(round(percentage, 1)),
 
 result = text_message_advanced("John", float(5), datetime.datetime(2019,12,6,8,56,1))
 
-print('advanced version:')
 print(result)
