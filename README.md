@@ -10,6 +10,6 @@ Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.co
 [LinkedIn](https://linkedin.com/in/BrianHHough)
 
 ## Progress
-| Day | Completed? |
+| Day | Beginner | Advanced (If Applicable) |
 |:---:|:---:|:---:|
-| 💻 [Day 1: Numbers Lecture 1] | 🌟 |
+|💻 [Numbers Lecture 1] | 🌟 | 🌟 |
