@@ -1,5 +1,5 @@
 # Python's Advent Calendar 2019
-This repository includes all of the solutions (with explanations) of all 25 days of the 2019 Python Advent Calendar.
+This repository includes the solutions (with explanations) of all 25 days of the 2019 Python Advent Calendar.
 
 Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.com) 
 | 
@@ -8,3 +8,8 @@ Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.co
 [Instagram](https://instagram.com/BrianHHough)
 |
 [LinkedIn](https://linkedin.com/in/BrianHHough)
+
+## Progress
+| Day | Completed? |
+|:---:|:---:|:---:|
+| 💻 [Day 1: Numbers Lecture 1] | 🌟 |
