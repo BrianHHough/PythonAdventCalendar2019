@@ -19,4 +19,13 @@ Before you define the function, you must `import datetime` to bring in the date 
 
 We know that *Participation Rate* = 5 / 24 x 100, so we must write that as a parameter.
 
-We'll return with placeholders `{}` for each of these three placeholders: `name`, `n`, and `last_access_timestamp`. This will yield for us: `Dear {}, your participation rate was {}% \ and your last access was on {} at {}""".format(name, str(round(percentage, 1))`
+We'll return with placeholders `{}` for each of these three placeholders: `name`, `n`, and `last_access_timestamp`. This will yield for us: 
+
+`Dear {}, your participation rate was {}% \ and your last access was on {} at {}""".format(name, str(round(percentage, 1))
+  last_access_timestamp.strftime("%d-%m-%Y"), 
+  last_access_timestamp.strftime("%I:%M:%S %p")))`
+
+Write in: result = text_message_advanced("John", float(5), datetime.datetime(2019,12,6,8,56,1))
+
+And then print:
+print(result)
