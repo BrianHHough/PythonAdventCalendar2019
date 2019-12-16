@@ -22,6 +22,7 @@ We know that *Participation Rate* = 5 / 24 x 100, so we must write that as a par
 We'll return with placeholders `{}` for each of these three placeholders: `name`, `n`, and `last_access_timestamp`. This will yield for us: 
 
 `Dear {}, your participation rate was {}% \ and your last access was on {} at {}""".format(name, str(round(percentage, 1))
+ 
   last_access_timestamp.strftime("%d-%m-%Y"), 
   last_access_timestamp.strftime("%I:%M:%S %p")))`
 
