@@ -1,4 +1,4 @@
-# Python's Advent Calendar 2019
+# Python's Advent Calendar 2019 🐍🎄🎁
 This repository includes the solutions (with explanations) of all 25 days of the 2019 Python Advent Calendar.
 
 Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.com) 
