@@ -1,4 +1,4 @@
-# B E G I N N E R S
+# B E G I N N E R
 
 def fun_with_words(word):
   return word+word[::-1]
