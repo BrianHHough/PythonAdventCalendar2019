@@ -22,3 +22,15 @@ for vowel in ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']:
 
 Then we return the `new_word` from above
 
+
+Here's an [example](https://stackoverflow.com/questions/7301292/string-replace-vowels-in-python) from our good friends at stackoverflow.com:
+
+| code | documentation
+|:---|:---|
+|def removeVowels(word):|
+|.....letters = [] | # make an empty list to hold the non-vowels|
+|.....for char in word: | # for each character in the word|
+|..........if char.lower() not in 'aeiou':| # if the letter is not a vowel|
+|...............letters.append(char) | # add it to the list of non-vowels|
+|.....return ''.join(letters) | # join the list of non-vowels together into a string|
+
