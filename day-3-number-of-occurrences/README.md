@@ -13,3 +13,5 @@ Write a function called `count_letters(text, letter)`, which receives as argumen
 
 ### A D V A N C E D
 
+
+
