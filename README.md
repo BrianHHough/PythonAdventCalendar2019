@@ -22,6 +22,12 @@ Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.co
 |💻 [Day 8 - Add (+) and Remove (-) Elements from a List of Strings](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-8-adds-removes-elements-from-list-of-strings) | 🌟 | 🌟 |
 |💻 [Day 9 - Return a Sorted List of Tuples](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-9-return-sorted-list-of-tuples) | 🌟 | 🌟 |
 |💻 [Day 10 - Return List Described by Two Conditions](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day--10-return-list-described-by-two-conditions#day-10---return-list-described-by-two-conditions) | 🌟 | 🌟 |
+|💻 [Day 11 - Takes a List of Tuples and Returns the Average Daily Price](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day--11-list-of-tuples-daily-price-rounded) | 🌟 | 🌟 |
+|💻 [Day 12 - Take a String of Emails and Return a Counter](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day--11-list-of-tuples-daily-price-rounded) | 🌟 | 🌟 |
+|💻 [Day 13 - Return Average Difficulty Score of Tasks - List of Lists](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day--13-average-difficulty-score-tasks-list-of-lists) | 🌟 | 🌟 |
+
+
+
 
 
 
