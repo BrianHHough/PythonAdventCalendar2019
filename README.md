@@ -12,4 +12,6 @@ Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.co
 ## Progress
 | Day | Beginner | Advanced (If Applicable) |
 |:---:|:---:|:---:|
-|💻 [Numbers Lecture 1] | 🌟 | 🌟 |
+|💻 [Day 1 - Dear {}, you solved {} tasks!](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-1-you-solved-x-tasks) | 🌟 | 🌟 |
+|💻 [Day 2 - Combo of a Given Word + Its esreveR](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-2-combination-of-word-and-its-reverse) | 🌟 | 🌟 |
+|💻 [Day 3 - Tell Me the Number of Occurrences](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-3-number-of-occurrences) | 🌟 | 🌟 |
