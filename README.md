@@ -26,8 +26,8 @@ Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.co
 |💻 [Day 12 - Take a String of Emails and Return a Counter](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-12-list-of-tuples-daily-price-rounded) | 🌟 | 🌟 |
 |💻 [Day 13 - Return Average Difficulty Score of Tasks - List of Lists](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-13-average-difficulty-score-tasks-list-of-lists) | 🌟 | 🌟 |
 |💻 [Day 14 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-14-return-personalized-message-from-input-mapping) | 🌟 | 🌟 |
-|💻 [Day 15 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-14-return-personalized-message-from-input-mapping) | 🌟 | 🌟 |
+|💻 [Day 15 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-15-return-missing-digit-from-phone-number-of-eight-digits) | 🌟 | 🌟 |
 |💻 [Day 16 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-16-return-personalized-message-from-input-mapping) | 🌟 | 🌟 |
-|💻 [Day 17 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-17-return-personalized-message-from-input-mapping) | 🌟 | 🌟 |
+|💻 [Day 17 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-17-take-list-emails-return-number-attempts-random) | 🌟 | 🌟 |
 
 
