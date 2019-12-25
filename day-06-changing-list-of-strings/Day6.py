@@ -1,3 +1,4 @@
+import testyourcode
 
 def clean_participants_list(participants):
   participants.sort(reverse=True)
@@ -9,3 +10,4 @@ def clean_participants_list(participants):
 challenge_participants = ['John', 'Mike', 'Anna', 'Jacob', 'Magda', 'Tomas', 'Peter']
 print(clean_participants_list(challenge_participants))
 
+testyourcode.check_funcion(clean_participants_list)
