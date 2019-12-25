@@ -1,3 +1,5 @@
+import testyourcode
+
 # B E G I N N E R
 def manage_participants(participants_list, to_remove_list, to_add_list):
   new_list = participants_list
@@ -9,6 +11,7 @@ def manage_participants(participants_list, to_remove_list, to_add_list):
         new_list.append(p)
   return sorted(new_list)
 
+testyourcode.check_funcion(manage_participants)
 
 # A D V A N C E D
 def manage_participants_advanced(participants_list, to_remove_list, to_add_list):
@@ -24,3 +27,4 @@ def manage_participants_advanced(participants_list, to_remove_list, to_add_list)
         new_list.append(p+'_2')
   new_list.sort()
   return sorted(new_list)
+
