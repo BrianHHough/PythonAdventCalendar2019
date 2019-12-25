@@ -1,4 +1,10 @@
 
+def half_xmas_tree(depth):
+  return
+
+half_xmas_tree(10)
+
+### my attempt ###
 
 def half_xmas_tree(depth):
   lst = list(range(1,10))
