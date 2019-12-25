@@ -1,3 +1,5 @@
+import testyourcode
+
 # B E G I N N E R
 
 def fun_with_words(word):
@@ -11,4 +13,4 @@ def fun_with_words2(word):
     new_word = new_word.replace(vowel, '')
   return new_word
 
-
+testyourcode.check_funcion(fun_with_words)
