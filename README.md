@@ -29,5 +29,12 @@ Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.co
 |💻 [Day 15 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-15-return-missing-digit-from-phone-number-of-eight-digits) | 🌟 | 🌟 |
 |💻 [Day 16 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-16-return-personalized-message-from-input-mapping) | 🌟 | 🌟 |
 |💻 [Day 17 - Return a Personalized Message from Taking as Input a Mapping which is a Python Dictionary](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-17-take-list-emails-return-number-attempts-random) | 🌟 | 🌟 |
+|💻 [Day 18 - Return All of the Words that Appear 'n' Times in the Plain Text](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-18-return-all-words-that-appear-n-times-in-text) | 🌟 | 🌟 |
+|💻 [Day 19 - Return Three Lists in Form of ([...], [...], [...])](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-19-returns-three-lists-beginner-intermediate-advanced) | 🌟 | 🌟 |
+|💻 [Day 20 - Take Three Lists and Return a Sorted List of All Sentences](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-20-three-lists-return-sorted-list-of-sentences) | 🌟 | 🌟 |
+|💻 [Day 21 - Tell Me the Distance Between Travel Destinations](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-21-distance-between-travel-destinations) | 🌟 | 🌟 |
+|💻 [Day 22 - Return the Value of a Function f(n)=](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-22-return-value-of-function) | 🌟 | 🌟 |
+|💻 [Day 23 - Take JSON Data and Return a Sorted Python List of Values](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-23-take-JSON-data-return-sorted-Python-list-of-values) | 🌟 | 🌟 |
+|💻 [Day 24 - Create a Christmas Tree 🎄](https://github.com/BrianHHough/PythonAdventCalendar2019/tree/master/day-24-Christmas-Tree) | 🌟 | 🌟 |
 
 
