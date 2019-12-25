@@ -1,3 +1,4 @@
+import testyourcode
 from collections import Counter
 
 def check_domains(list_of_emails):
@@ -5,3 +6,5 @@ def check_domains(list_of_emails):
 
 emails = ['magda@gmail.com', 'travelingprogrammer@yahoo.com','polishgirl@outlook.com', 'travelingprogrammer@gmail.com']
 print(check_domains(emails))
+
+testyourcode.check_funcion(check_domains)
