@@ -1,3 +1,5 @@
+import testyourcode
+
 # B E G I N N E R
 def check_insta_handle(name):
   if all(['_' not in name, '-' not in name, len(name)<=20,
@@ -6,7 +8,15 @@ def check_insta_handle(name):
   else:
     return 'Bad'
 
+  
+testyourcode.check_funcion(check_insta_handle)
+  
+  
 # A D V A N C E D
+
+# for advanced:
+#testyourcode.check_funcion2(check_insta_handle2)
+
 import re
 def check_insta_handle2(name):
   if all(['_' not in name, '-' not in name, len(name)<=20,
