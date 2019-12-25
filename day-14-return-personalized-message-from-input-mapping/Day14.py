@@ -1,4 +1,4 @@
-
+import testyourcode
 
 def send_personalized_email(mapping, email_address):
   mapping = {'Magda' : 'travellingprogrammer@gmail.com', 'John': 'johny@gmail.com'}
@@ -10,4 +10,4 @@ def send_personalized_email(mapping, email_address):
 
 print(send_personalized_email('Magda', 'travellingprogrammer@gmail.com'))
 
-
+testyourcode.check_funcion(send_personalized_email)
