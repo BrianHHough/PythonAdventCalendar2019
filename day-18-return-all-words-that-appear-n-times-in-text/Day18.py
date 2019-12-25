@@ -1,3 +1,4 @@
+import testyourcode
 
 # F I N A L
 
@@ -9,3 +10,4 @@ def get_top_words(plain_text, n):
 text = "this challenge is like piece of cake for you if you like coding"
 print(get_top_words(text, 2))
   
+testyourcode.check_funcion(get_top_words)
