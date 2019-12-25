@@ -1,3 +1,5 @@
+import testyourcode
+
 #  B E G I N N E R
 def get_avg_difficulty(list_of_lists):
   all_scores = []
@@ -8,6 +10,7 @@ def get_avg_difficulty(list_of_lists):
 l = [[1,0,8,4], [2, 5, 6, 2], [8,8,1,7], [1,9,4,5]] 
 print(get_avg_difficulty(l))
 
+testyourcode.check_funcion(get_avg_difficulty)
 
 #  A D V A N C E D
 def median(lst):
@@ -25,3 +28,5 @@ def get_median_difficulty(list_of_lists):
   for subl in list_of_lists:
     all_scores = all_scores + subl
   return median(all_scores)
+
+### testyourcode.check_funcion2(get_median_difficulty) ###
