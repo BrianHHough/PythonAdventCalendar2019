@@ -1,3 +1,5 @@
+import testyourcode
+
 # B E G I N N E R
 
 def text_message(name,n):
@@ -18,3 +20,5 @@ def text_message_advanced(name, n, last_access_timestamp):
 result = text_message_advanced("John", float(5), datetime.datetime(2019,12,6,8,56,1))
 
 print(result)
+
+testyourcode.check_funcion(text_message)
