@@ -1,3 +1,5 @@
+import testyourcode
+
 def find_missing_digit(pseudo_number):
   test_list = ['1900800x0', '9000000x0', '1234x4321']
   results = []
@@ -6,3 +8,5 @@ def find_missing_digit(pseudo_number):
     for i in range(10):
       if (digits_sum+i)%10==0:
         return i
+      
+ testyourcode.check_funcion(find_missing_digit)
