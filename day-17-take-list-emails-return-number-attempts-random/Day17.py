@@ -1,3 +1,5 @@
+import testyourcode
+
 import random
 
 def check_attempts(list_of_emails, your_email):
@@ -8,3 +10,6 @@ def check_attempts(list_of_emails, your_email):
 
 emails = ['magda@sth.ai', 'travellingprogrammer@gmail.com', 'digitalnomad@magda.me']
 print(check_attempts(emails, 'travellingprogrammer@gmail.com'))
+
+
+testyourcode.check_funcion(check_attempts)
